@@ -1,0 +1,23 @@
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\obj\Release\App.g.i.cs
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\obj\Release\App.g.cs
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\obj\Release\Common\StandardStyles.g.cs
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\obj\Release\MainPage.g.i.cs
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\obj\Release\MainPage.g.cs
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\obj\Release\App.xaml
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\obj\Release\Common\StandardStyles.xaml
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\obj\Release\MainPage.xaml
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\bin\Release\Save the Humans.exe
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\bin\Release\Save the Humans.pdb
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\bin\Release\resources.pri
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\bin\Release\AppxManifest.xml
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\bin\Release\Save the Humans.build.appxrecipe
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\obj\Release\Save the Humans.exe
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\obj\Release\Save the Humans.pdb
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\obj\Release\priconfig.xml
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\obj\Release\layout.resfiles
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\obj\Release\resources.resfiles
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\obj\Release\pri.resfiles
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\obj\Release\LanguageQualifiers.txt
+C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\obj\Release\ProjectArchitectures.txt

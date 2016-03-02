@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BONAMY-PC</Machine>
+    <WindowsUser>Bonamy</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>0ED7740C2C8045E28C9761337AABEFA0454E8625CDBCC31E69DB6F64C015ADFA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f537a74c-fdb2-4044-a903-eb9e7d764152_1.0.0.0_neutral__rh9zs8vaq964r</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f537a74c-fdb2-4044-a903-eb9e7d764152_rh9zs8vaq964r!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f537a74c-fdb2-4044-a903-eb9e7d764152</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Bonamy</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T21:36:05.686</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\bin\Release\Save the Humans.exe">
+      <PackagePath>Save the Humans.exe</PackagePath>
+      <Modified>2016-02-29T22:39:11.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\bin\Release\Save the Humans.pdb">
+      <PackagePath>Save the Humans.pdb</PackagePath>
+      <Modified>2016-02-29T22:39:11.620</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T22:44:39.774</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T22:46:04.424</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2016-02-29T16:49:21.586</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2016-02-29T16:48:47.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-27T00:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2016-02-29T22:39:08.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bonamy\documents\visual studio 2012\Projects\Save the Humans\Save the Humans\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-02-29T21:36:05.544</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
